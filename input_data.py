@@ -17,7 +17,7 @@ dandelion = []
 label_dandelion = []
 sunflowers = []
 label_sunflowers = []
-
+#wumingpu add
 # rxr add juhua shibie 
 # step1：获取所有的图片路径名，存放到
 # 对应的列表中，同时贴上标签，存放到label列表中。
